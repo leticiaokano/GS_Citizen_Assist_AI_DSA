@@ -6,6 +6,12 @@
   Ciência da Computação — FIAP
 </p>
 
+## Grupo do Projeto
+| Nome            | RM        |
+|-----------------|-----------|
+| *Thiago Nakano* | RM 569151 |
+| *Leticia Okano* | RM 571988 |
+
 ## Sobre o Projeto
 
 O Citizen Assist AI é um protótipo de sistema desenvolvido em Python, com o objetivo de organizar e facilitar a consulta de informações sobre serviços úteis ao cidadão.
@@ -50,7 +56,7 @@ Citizen-Assist-AI/
 **1. Clone o repositório:**
 
 ```bash
-git clone https://github.com/leticiaokano/Citizen-Assist-AI.git
+git clone https://github.com/leticiaokano/GS_Citizen_Assist_AI_DSA.git
 ```
 
 **2. Entre na pasta do projeto:**
