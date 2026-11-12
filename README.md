@@ -71,4 +71,8 @@ cd Citizen-Assist-AI
 python main.py
 ```
 
----
+## Relatório
+
+Segue o link do nosso relatório que contem as análises do Big-O e os nossos testes:
+
+https://docs.google.com/document/d/1iwlJ8eXJDwb_3MypSniSAxx0b4qniIceFfFZPGygJQg/edit?usp=sharing
